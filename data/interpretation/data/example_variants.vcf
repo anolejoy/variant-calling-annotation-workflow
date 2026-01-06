@@ -1,0 +1,5 @@
+##fileformat=VCFv4.2
+##reference=GRCh38
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+17	43071077	.	C	T	.	PASS	.
+7	117199644	.	CTT	C	.	PASS	.
